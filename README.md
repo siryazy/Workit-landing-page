@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Workit Landing Page Solution
 
 This is a solution to the [Workit landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu).
@@ -75,3 +76,7 @@ Users should be able to:
 
 * Thanks to **Frontend Mentor** for the design challenge.
 * Appreciation to my friend for sharing the premium assets for educational use.
+=======
+# workit-landing-page
+A solution to the Workit landing page challenge on Frontend Mentor.
+>>>>>>> f4cb97c47fdbb47edf101f9f788fb64d3bb0be89
