@@ -1,6 +1,6 @@
 # Frontend Mentor - Workit Landing Page Solution
 
-This is a solution to the [Workit landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu). This challenge is premium, and although I did not purchase it directly, I used it solely for learning and practice.
+This is a solution to the [Workit landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu).
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile view](./screenshot-mobile.jpg)
+![Mobile view](./screenshot-mobile.jpg.png)
 ![Desktop view](./screenshot-desktop.jpg)
 
 ### Links
