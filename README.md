@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-* Live Site URL: [https://yourusername.github.io/workit-landing-page](https://yourusername.github.io/workit-landing-page)
+* Live Site URL: [https://siryazy.github.io/workit-landing-page](https://siryazy.github.io/workit-landing-page)
 * Repository URL: [https://github.com/siryazy/Workit-landing-page](https://github.com/siryazy/Workit-landing-page)
 
 ## My process
